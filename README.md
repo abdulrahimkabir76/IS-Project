@@ -45,6 +45,19 @@ The notebook includes quick self-tests:
 
 Run the corresponding cells to execute these checks.
 
+## Development & Version Updates
+
+EduLight-64 was developed incrementally with version-controlled updates to improve functionality, documentation, and educational clarity.
+
+Recent project improvements may include:
+
+- Enhanced inline code documentation for better understanding of cipher operations
+- Refinements to CTR mode implementation and helper functions
+- Updates to README documentation and project structure
+- Improvements to testing modules such as avalanche and roundtrip validation
+- Minor optimizations for readability and maintainability
+
+
 ## License & Attribution
 
 This code is provided for educational purposes only. No warranty is provided. Reuse and modification are allowed for learning and research; include attribution when sharing derived work.
